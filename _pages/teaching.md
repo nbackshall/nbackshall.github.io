@@ -13,21 +13,21 @@ I focus on building a deep understanding of fundamental concepts, fostering crit
 
 ##### What Sets Me Apart
 
-* 7+ years of engineering experience across mechanical, electrical, and software domains
-* Expertise in cutting-edge Robotics and AI
-* Ability to connect abstract concepts to real-world applications
+- 7+ years of engineering experience across mechanical, electrical, and software domains
+- Expertise in cutting-edge Robotics and AI
+- Ability to connect abstract concepts to real-world applications
 
 ##### What You'll Gain
 
-* Mastery of versatile problem-solving techniques
-* Insight into practical applications of mathematical concepts
-* Solid foundation for advanced learning in fields like AI and robotics
-* Natural exam success through genuine comprehension
+- Mastery of versatile problem-solving techniques
+- Insight into practical applications of mathematical concepts
+- Solid foundation for advanced learning in fields like AI and robotics
+- Natural exam success through genuine comprehension
 
 ##### Subjects
 
-* GCSE Mathematics
-* A-Level Mathematics
+- GCSE Mathematics
+- A-Level Mathematics
 
 <!-- Pricing -->
 <!---->
