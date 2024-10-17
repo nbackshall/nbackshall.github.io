@@ -1,200 +1,164 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nicholas Backshall",
+    "label": "Robotics Research Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nicholas.backshall@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced robotics research engineer with a background in robot learning, imitation learning, and reinforcement learning algorithms for robot manipulation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Dyson Robot Learning Lab",
+      "position": "Senior Robotics Research Engineer",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Conducted cutting-edge research in robot learning, focusing on sample-efficient imitation learning and reinforcement learning algorithms for robot manipulation.",
+      "highlights": [
+        "Developed and maintained internal imitation learning and reinforcement learning environments",
+        "Developed and maintained internal real-world robot learning infrastructure",
+        "Line managed an engineer",
+        "Co-authored two publications in IEEE Robotics and Automation Letters and CoRL 2024",
+        "Developed novel action space formulation for over-actuated robot arms",
+        "Created BiGym, a benchmark for mobile bi-manual demo-driven robotic manipulation",
+        "Engineered custom embedded systems for dexterous manipulation"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Dyson",
+      "position": "Software Application Engineer",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Designed and developed iOS and Android applications to support testing and validation of new product concepts in upstream product development.",
+      "highlights": [
+        "Developed Android Bluetooth Low Energy (BLE) Library",
+        "Designed cross-platform messaging protocol for device communication",
+        "Implemented embedded comunication protocols in GoLang, JavaScript, Python, and other languages"
+      ]
+    },
+    {
+      "name": "Dyson",
+      "position": "iOS Developer",
+      "url": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Created AR applications and developed the Dyson AQ App for air quality monitoring.",
+      "highlights": [
+        "Created AR application rendering high-fidelity particle systems using Metal and Metal-Shading-Language",
+        "Developed Dyson AQ App for air quality monitoring",
+        "Created data mocking tool using AWS Lambda"
+      ]
+    },
+    {
+      "name": "Dyson",
+      "position": "Android Developer",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Contributed to the development of the MyDyson Android application.",
+      "highlights": [
+        "Implemented new front-end features",
+        "Fixed bugs and improved existing functionality",
+        "Practiced Test-Driven Development (TDD)"
+      ]
+    },
+    {
+      "name": "Dyson",
+      "position": "Engineer",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "Worked across mechanical, electrical, and software engineering departments on various projects.",
+      "highlights": [
+        "Developed manufacturing strategies",
+        "Analysed circuit board schematics",
+        "Created debug platforms for cloud data",
+        "Conducted user studies and engineered automated rigs",
+        "Designed high voltage system architectures",
+        "Prototyped new attachments for consumer products"
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The University of Warwick & Dyson Institute of Engineering and Technology (fully sponsored by Dyson)",
+      "url": "",
+      "area": "Engineering (Electronics - Software)",
+      "studyType": "First Class Bachelor of Engineering (with Honours)",
+      "startDate": "2017",
+      "endDate": "2021",
+      "score": "First Class",
+      "courses": [
+        "Applied Programming",
+        "Software Development for Engineers",
+        "Agile Software Development",
+        "Systems and Network Architecture",
+        "Embedded Systems",
+        "Internet of Things",
+        "Data Science and Machine Learning",
+        "Vision and Processing"
+      ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "awards": [],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark",
+      "publisher": "CoRL 2024",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Created BiGym, a new benchmark and learning environment for mobile bi-manual demo-driven robotic manipulation."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Redundancy-aware Action Spaces for Robot Learning",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2023-2024",
+      "url": "",
+      "summary": "Developed a novel action space formulation, ER (End-effector Redundancy), addressing redundancies in over-actuated robot arms."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "C#", "C++", "Java", "Kotlin", "Swift", "GoLang", "JavaScript"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "Advanced",
+      "keywords": ["PyTorch", "ROS2", "MoveIt", "SwiftUI", "Android SDK"]
+    },
+    {
+      "name": "Technologies",
+      "level": "Advanced",
+      "keywords": ["Reinforcement Learning", "Imitation Learning", "Robotics", "AR/VR", "Bluetooth Low Energy (BLE)"]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "Intermediate",
+      "keywords": ["Ubuntu", "AWS Lambda", "RESTful APIs"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Native"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }
